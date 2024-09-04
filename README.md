@@ -5,3 +5,6 @@
 2. [Tipos de gráficos](1.02-tipos-de-graficos.pdf)
 3. [Dados de vendas de limonadas](1.03-lab-vendas-limonada.xlsx)
 4. [Ícones para o dashboard](1.04-icones.zip)
+
+## 04/09/2024
+1. [Dados de recursos humanos](1.05-rh.xlsx)

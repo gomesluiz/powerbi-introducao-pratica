@@ -4,7 +4,7 @@
 1. [Business Intelligence & Analytics](1.01-business-intelligence-e-analytics.pdf)
 2. [Tipos de gráficos](1.02-tipos-de-graficos.pdf)
 
-## 03/09/2024
+## 04/09/2024
 1. [Dados de vendas de limonadas](1.03-lab-vendas-limonada-dados.xlsx)
 2. [Ícones de vendas de limonada](1.04-lab-vendas-liminada-icones.zip)
 

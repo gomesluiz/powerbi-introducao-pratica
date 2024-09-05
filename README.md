@@ -11,3 +11,4 @@
 ## 05/09/2024
 1. [Dados de recursos humanos](1.05-lab-rh-dados.xlsx)
 2. [Ícones de recursos humanos](1.06-lab-rh-icones.zip)
+3. [Dashboard do Desafio](hr_dashboard.png)
